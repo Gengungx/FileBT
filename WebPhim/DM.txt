@@ -1,0 +1,243 @@
+<div class="sp">
+
+                                                <a href="../phim/thedarkknight.html"><img
+                                                                src="./.images/81CLFQwU-WL._AC_UF894,1000_QL80_.jpg"
+                                                                alt="" /></a>
+                                                <div class="chon">
+
+                                                        <div class="name"><a href="../phim/thedarkknight.html">The
+                                                                        Dark
+                                                                        Knight(2008)</a></div>
+                                                </div>
+                                                <div class="readmore">8.4</div>
+
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img
+                                                                src="../images/MV5BOTdmNTFjNDEtNzg0My00ZjkxLTg1ZDAtZTdkMDc2ZmFiNWQ1XkEyXkFqcGdeQXVyNTAzNzgwNTg@._V1_.jpg"
+                                                                alt="" /></a>
+                                                <div class="chon">
+                                                        <div class="name"><a
+                                                                        href="../phim/thedarkknight.html">1917(2019)</a>
+                                                        </div>
+
+                                                </div>
+                                                <div class="readmore">8.2</div>
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img
+                                                                src="../images/MV5BMTQ0MGI4NTgtZTlkNy00YTU5LThjM2ItNDczMGFlZWY2ZWM3XkEyXkFqcGdeQXVyMTM3NDc1OTM2._V1_.jpg"
+                                                                alt="" /></a>
+                                                <div class="chon">
+                                                        <div class="name"><a href="../phim/thedarkknight.html">Cyberpunk:
+                                                                        Edgerunners</a></div>
+
+                                                </div>
+                                                <div class="readmore">8.3</div>
+
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img
+                                                                src="../images/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg"
+                                                                alt="" /></a>
+
+                                                <div class="chon">
+                                                        <div class="name"><a href="../phim/thedarkknight.html">Avengers:
+                                                                        Endgame</a></div>
+
+                                                </div>
+                                                <div class="readmore">8.4</div>
+                                        </div>
+
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img
+                                                                src="../images/MV5BMzI0NmVkMjEtYmY4MS00ZDMxLTlkZmEtMzU4MDQxYTMzMjU2XkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg"
+                                                                alt="" /></a>
+
+                                                <div class="chon">
+                                                        <div class="name"><a
+                                                                        href="../phim/thedarkknight.html">Spider-Man:
+                                                                        Across the
+                                                                        Spider-Verse(2023)</a>
+                                                        </div>
+
+                                                </div>
+                                                <div class="readmore">8.8</div>
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img
+                                                                src="../images/81EuuG-54lL._AC_UF894,1000_QL80_.jpg"
+                                                                alt="" /></a>
+
+                                                <div class="chon">
+                                                        <div class="name"><a href="../phim/thedarkknight.html">Stranger
+                                                                        Things(2016-2024)</a>
+                                                        </div>
+
+                                                </div>
+                                                <div class="readmore">8.7</div>
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img
+                                                                src="../images/MV5BMTU4NzA4MDEwNF5BMl5BanBnXkFtZTgwMTQxODYzNjM@._V1_.jpg"
+                                                                alt="" /></a>
+
+                                                <div class="chon">
+                                                        <div class="name"><a href="../phim/thedarkknight.html">The
+                                                                        Haunting of Hill House</a>
+                                                        </div>
+
+                                                </div>
+                                                <div class="readmore">8.6</div>
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img
+                                                                src="../images/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg"
+                                                                alt="" /></a>
+
+                                                <div class="chon">
+                                                        <div class="name"><a href="../phim/thedarkknight.html">Spider-Man
+                                                                        2(2004)</a></div>
+
+                                                </div>
+                                                <div class="readmore">7.5</div>
+                                        </div>
+
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img
+                                                                src="../images/MV5BNjMyMDBjMGUtNDUzZi00N2MwLTg1MjItZTk2MDE1OTZmNTYxXkEyXkFqcGdeQXVyMTQ5NjA0NDM0._V1_FMjpg_UX1000_.jpg"
+                                                                alt="" /></a>
+                                                <div class="chon">
+                                                        <div class="name"><a href="../phim/thedarkknight.html">Puss in
+                                                                        Boots: The Last
+                                                                        Wish(2022)</a>
+                                                        </div>
+
+                                                </div>
+                                                <div class="readmore">7.9</div>
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img
+                                                                src="../images/MV5BOTUwODM5MTctZjczMi00OTk4LTg3NWUtNmVhMTAzNTNjYjcyXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_.jpg"
+                                                                alt="" /></a>
+
+                                                <div class="chon">
+                                                        <div class="name"><a
+                                                                        href="../phim/thedarkknight.html">se7en(1995)</a>
+                                                        </div>
+                                                </div>
+                                                <div class="readmore">8.6</div>
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img
+                                                                src="../images/Poser_Mui_co_chay.jpg" alt="" /></a>
+
+                                                <div class="chon">
+                                                        <div class="name"><a href="../phim/thedarkknight.html">Mùi cỏ
+                                                                        cháy(2012)</a></div>
+                                                </div>
+                                                <div class="readmore">6.6</div>
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img
+                                                                src="../images/Phía_trước_là_bầu_trời.jpg" alt="" /></a>
+
+                                                <div class="chon">
+                                                        <div class="name"><a
+                                                                        href="../phim/thedarkknight.html">Phía_trước_là_bầu_trời</a>
+                                                        </div>
+                                                </div>
+                                                <div class="readmore">8.1</div>
+                                        </div>
+
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img
+                                                                src="../images/MV5BYmYyYWY4NjgtNGQ2Yi00NDNiLWJlOTgtYjI1MTI0NjZkNjhhXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_.jpg"
+                                                                alt="" /></a>
+
+                                                <div class="chon">
+                                                        <div class="name"><a href="../phim/thedarkknight.html">What We Do
+                                                                        in the Shadows</a>
+                                                        </div>
+                                                </div>
+                                                <div class="readmore">7.6</div>
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img src="../images/tươmt.jpg"
+                                                                alt="" /></a>
+                                                <div class="chon">
+                                                        <div class="name"><a href="../phim/thedarkknight.html">The
+                                                                        Unbearable Weight of Massive
+                                                                        Talent(2022)</a>
+                                                        </div>
+                                                </div>
+                                                <div class="readmore">7.0</div>
+
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img src="../images/yourname.jpg"
+                                                                alt="" /></a>
+
+                                                <div class="chon">
+
+                                                        <div class="name"><a href="../phim/thedarkknight.html">Your
+                                                                        Name(2016)</a></div>
+                                                </div>
+                                                <div class="readmore">8.6</div>
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img
+                                                                src="../images/Weathering_with_You_Poster.jpg"
+                                                                alt="" /></a>
+
+                                                <div class="chon">
+                                                        <div class="name"><a href="../phim/thedarkknight.html">Weathering
+                                                                        with You(2019)</a>
+                                                        </div>
+                                                </div>
+                                                <div class="readmore">7.5</div>
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img src="../images/op.jpg"
+                                                                alt="" /></a>
+
+                                                <div class="chon">
+                                                        <div class="name"><a
+                                                                        href="../phim/thedarkknight.html">Oppenheimer(2023)</a>
+                                                        </div>
+                                                </div>
+                                                <div class="readmore">8.6</div>
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img src="../images/tt_.jpg"
+                                                                alt="" /></a>
+
+                                                <div class="chon">
+                                                        <div class="name"><a
+                                                                        href="../phim/thedarkknight.html">Tetris(2023)</a>
+                                                        </div>
+                                                </div>
+                                                <div class="readmore">7.4</div>
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img src="../images/yakuza.jpg"
+                                                                alt="" /></a>
+
+                                                <div class="chon">
+                                                        <div class="name"><a href="./phim/thedarkknight.html">Yakuza to
+                                                                        kazoku: The Family</a>
+                                                        </div>
+                                                </div>
+                                                <div class="readmore">7.0</div>
+                                        </div>
+                                        <div class="sp">
+                                                <a href="../phim/thedarkknight.html"><img src="../images/dog.jpg"
+                                                                alt="" /></a>
+
+                                                <div class="chon">
+                                                        <div class="name"><a
+                                                                        href="../phim/thedarkknight.html">Hanamizuki</a>
+                                                        </div>
+                                                </div>
+                                                <div class="readmore">6.8</div>
+                                        </div>
