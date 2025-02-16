@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+body {
+    background: #000;
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+}
+
+.navbar {
+    background-color: #f9f8f8;
+    color: white;
+}
+
+.navbar-brand {
+    color: #fff;
+}
+
+.card {
+    margin-top: 50px;
+    background: rgba(255, 255, 255, 0.1); /* Transparent white background */
+    backdrop-filter: blur(10px); /* Blur effect */
+    border-radius: 20px;
+}
+
+.card-head {
+    background-color: rgba(250, 245, 245, 0.233); /* Transparent white background */
+    color: #fff;
+    padding: 15px;
+    font-size: 18px;
+    border-radius: 20px;
+    
+}
+
+.card-body {
+    padding: 30px;
+}
+
+.btn-primary {
+    background-color: #000;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #f9f3f3; /* Darker shade on hover */
+    color: black;
+}
+
+.alert {
+    margin-top: 15px;
+}
+
+.table {
+    margin-top: 50px;
+    background: rgba(244, 242, 242, 0.1); /* Transparent white background */
+    box-shadow: 0 2px 4px rgb(255, 250, 250);
+    color: #fff;
+    border-radius: 20px;
+}
+.thongbao
+{
+    text-align-last:center;
+    align-items: center;                                                                                                                                                                                                                                    
+    font-size: 30px;
+    height: 38px;
+    margin-bottom:10px;
+    background-color: green;
+}
