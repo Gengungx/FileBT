@@ -1,0 +1,82 @@
+/* Navbar Custom */
+.navbar-custom {
+    background-color: #343a40; /* Màu nền của navbar */
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: #ffffff; /* Màu chữ trong navbar */
+}
+.navbar-custom .nav-link:hover {
+    color: #dddddd; /* Màu chữ khi hover */
+}
+
+/* Container Custom */
+.container-custom {
+    margin-top: 20px;
+}
+
+/* Sidebar */
+.sidebar {
+    background-color: #f8f9fa;
+    border-right: 10px solid #dee2e6;
+    padding: 20px;
+    height: 750px;
+}
+.sidebar h4 {
+    margin-bottom: 20px;
+}
+.sidebar .nav-link {
+    color: #495057;
+}
+.sidebar .nav-link:hover {
+    background-color: #e9ecef;
+}
+
+/* Content and Containers */
+.content {
+    padding: 20px;
+}
+.form-container,
+.profile-container,
+.grades-container,
+.login-container,
+.table-container {
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #ffffff;
+}
+.table-container {
+    max-width: 800px;
+    margin: auto;
+    margin-top: 20px;
+}
+
+/* Alert */
+.alert-custom {
+    margin-top: 20px;
+}
+
+/* Status Colors */
+.status-pending {
+    color: #ffc107; /* Màu vàng cho trạng thái chờ duyệt */
+}
+.status-approved {
+    color: #28a745; /* Màu xanh cho trạng thái đã duyệt */
+}
+.status-rejected {
+    color: #dc3545; /* Màu đỏ cho trạng thái đã xóa */
+}
+
+/* Grades Colors */
+.grade-fail {
+    color: red; /* Màu đỏ cho điểm không đạt */
+}
+.grade-pass {
+    color: green; /* Màu xanh cho điểm đạt */
+}
+
+/* Retake */
+.retake {
+    color: #dc3545; /* Màu đỏ cho môn cần học lại */
+}
